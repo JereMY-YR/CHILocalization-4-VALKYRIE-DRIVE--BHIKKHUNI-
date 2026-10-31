@@ -1,5 +1,5 @@
 # CHILocalization-4-VALKYRIE-DRIVE--BHIKKHUNI-
-VALKYRIE DRIVE -BHIKKHUNI- 中文化方案
+女武神驱动 -比丘尼- 中文化方案
 
 > 非官方简体中文汉化补丁，仅用于技术交流，请支持正版。
 
