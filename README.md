@@ -40,23 +40,6 @@
 
 使用错误的游戏版本、错误的基础文件或不完整的 DLC 都可能导致补丁校验失败、黑屏或加载卡死。
 
-## 下载
-
-请前往本仓库的 **Releases** 页面下载。
-
-推荐使用 xdelta 版本：
-
-```text
-VALKYRIE_DRIVE_BHIKKHUNI_CN_0.9_20261031_xdelta.zip
-```
-
-
-### SHA256
-
-```text
-872688160B98CC238C772301DFB3C18D298A20C01F43A292BC0A12EDE5CE28F7  VALKYRIE_DRIVE_BHIKKHUNI_CN_0.9_20261031_xdelta.zip
-```
-
 ## 安装完整 rePatch 包
 
 1. 安装日版游戏本体。
