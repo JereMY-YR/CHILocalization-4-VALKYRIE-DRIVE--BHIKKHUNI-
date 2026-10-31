@@ -81,10 +81,10 @@ ux0:rePatch/PCSG00632/Resource/UI/
 
 ```powershell
 .\apply_xdelta.ps1 `
-  -AppRoot "D:\PCSG00632\app\PCSG00632" `
-  -PatchRoot "D:\PCSG00632\patch\PCSG00632" `
-  -OutRoot "D:\PCSG00632\output" `
-  -Xdelta3 "D:\tools\xdelta3.exe"
+  -AppRoot "？:\PCSG00632\app\PCSG00632" `
+  -PatchRoot "？:\PCSG00632\patch\PCSG00632" `
+  -OutRoot "？:\PCSG00632\output" `
+  -Xdelta3 "？:\tools\xdelta3.exe"
 ```
 
 脚本会优先从 `PatchRoot` 读取官方补丁文件，缺失时再使用 `AppRoot`。
@@ -159,9 +159,6 @@ xdelta3 -e -9 -s <原版文件> <汉化文件> <输出.xdelta>
 ## 致谢
 
 - 感谢 [jmacd/xdelta](https://github.com/jmacd/xdelta) 提供差分补丁工具；
-- 感谢 rePatch 插件及其开发者；
-- 感谢参与文本校对、UI 润色和实机测试的朋友；
-- 感谢所有提供问题复现记录与修改建议的测试者。
 
 ## 免责声明
 
